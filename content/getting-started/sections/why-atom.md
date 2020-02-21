@@ -5,9 +5,15 @@ title: Why Atom?
 
 There are a lot of text editors out there; why should you spend your time learning about and using Atom?
 
+现在有很多文本编辑器，为什么要花时间学习和使用Atom？
+
 Editors like Sublime and TextMate offer convenience but only limited extensibility. On the other end of the spectrum, Emacs and Vim offer extreme flexibility, but they aren't very approachable and can only be customized with special-purpose scripting languages.
 
+像Sublime和TextMate这样的编辑器虽然提供了便利，但扩展性有限。在另外一方面，Emacs和Vim提供了极大的灵活性，但他们不是很平易近人，只能使用专用脚本语言进行定制。
+
 We think we can do better. Our goal is a zero-compromise combination of hackability and usability: an editor that will be welcoming to an elementary school student on their first day learning to code, but also a tool they won't outgrow as they develop into seasoned hackers.
+
+我们认为我们可以做得更好。我们的目标是可编程性和可用性的零妥协组合
 
 As we've used Atom to build Atom, what began as an experiment has gradually matured into a tool we can't live without. On the surface, Atom is the modern desktop text editor you've come to expect. Pop the hood, however, and you'll discover a system begging to be hacked on.
 
